@@ -1,12 +1,19 @@
 # Derek Gomez
 
-Hi, welcome to my GitHub profile! 🤓
+Hi, welcome to my nerdy little corner of the internet! 🤓
 
-## 🛠️ Languages and Tools
+<!-- My obsession this week:  -->
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,react,next,html,css,chromedevtools,playwright,cs)
+<!-- ## 🛠️ Languages and Tools -->
 
-## 🔥 My GitHub Streaks
+<!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,react,next,html,css,chromedevtools,playwright,cs) -->
 
-[![Derek's Weekly GitHub Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
-[![Derek's Daily GitHub Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=daily&hide_total_contributions=true)](https://git.io/streak-stats)
+## 🔥 My GitHub Stats
+
+<!-- [![My GH Stats](https://github-readme-stats.vercel.app/api?username=GomezDerek&show_icons=true&theme=dark&rank_icon=github)](https://github-readme-stats.vercel.app) -->
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomezDerek&theme=github_dark_dimmed&layout=donut-vertical&hide=G-Code,ShaderLab,HLSL,Mathematica)](https://github-readme-stats.vercel.app)
+
+[![My Weekly GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+
+[![My Daily GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=daily&hide_total_contributions=true)](https://git.io/streak-stats)
