@@ -9,7 +9,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 **I'm currently learning:** how to 10x my coding speed without 100xing my debugging time 🫠 #vibecoding
 
-**Ask me about:** my serial failures in entrepreneurship (3 & counting) 🗑️🔥
+**Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
 **My hot take:** TailWind is just inline styling 🫢
 
@@ -27,8 +27,5 @@ What you'll find in my repos:
 
 <!-- [![My GH Stats](https://github-readme-stats.vercel.app/api?username=GomezDerek&show_icons=true&theme=dark&rank_icon=github)](https://github-readme-stats.vercel.app) -->
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomezDerek&theme=github_dark_dimmed&layout=donut&hide=G-Code,ShaderLab,HLSL,Mathematica)](https://github-readme-stats.vercel.app)
-
-[![My Weekly GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=weekly&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![My Daily GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=github-dark-dimmed&mode=daily&hide_total_contributions=true)](https://git.io/streak-stats)
+<!-- It's hideous, I know. But this formats all the embeds on a single row (without getting dirty with HTML)  -->
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GomezDerek&theme=github_dark&layout=donut-vertical&hide=G-Code,ShaderLab,HLSL,Mathematica)](https://github-readme-stats.vercel.app) [![My Weekly GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=rising-sun&mode=weekly&hide_total_contributions=true&hide_longest_streak=true&card_width=200&card_height=375)](https://git.io/streak-stats) [![My Daily GH Streak](https://streak-stats.demolab.com?user=GomezDerek&theme=rising-sun&mode=daily&hide_total_contributions=true&card_height=375)](https://git.io/streak-stats)
