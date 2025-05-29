@@ -1,10 +1,25 @@
-# Derek Gomez
+# Derek Gomez <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi, welcome to my nerdy little corner of the internet! 🤓
+Welcome to my nerdy little corner of the internet! 🤓 You must be: 
+1. also a nerd,
+2. a recruiter, or
+3. annoyed at me for asking you to check out my silly profile for this website that stores my *sillier* coding projects
 
-<!-- My obsession this week:  -->
+<!-- **I'm passionate about:** 🤖automation, ⚡productivity, 🧠 learning efficiency, 🌏foreign languages, and 🎓education as a vehicle for social justice -->
 
-<!-- ## 🛠️ Languages and Tools -->
+**I'm currently learning:** how to 10x my coding speed without 100xing my debugging time 🫠 #vibecoding
+
+**Ask me about:** my serial failures in entrepreneurship (3 & counting) 🗑️🔥
+
+**My hot take:** TailWind is just inline styling 🫢
+
+What you'll find in my repos:
+- 💻 hackathon projects
+- 🧩 LeetCode submissions
+- 🎮 videogames from my undergrad
+- 🤦‍♂️ projects I forgot to set to private
+- f**king take-home assignments
+
 
 <!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,react,next,html,css,chromedevtools,playwright,cs) -->
 
