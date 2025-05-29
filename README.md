@@ -3,7 +3,7 @@
 Welcome to my nerdy little corner of the internet! 🤓 You must be: 
 1. also a nerd,
 2. a recruiter, or
-3. graciously doing me a favor by agreeing to provide feedback on my profile, thank you
+3. graciously providing feedback on my profile, thank you
 
 <!-- **I'm passionate about:** 🤖automation, ⚡productivity, 🧠 learning efficiency, 🌏foreign languages, and 🎓education as a vehicle for social justice -->
 
