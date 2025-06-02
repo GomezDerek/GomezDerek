@@ -18,7 +18,7 @@ What you'll find in my repos:
 - 🧩 LeetCode submissions
 - 🎮 videogames from my undergrad
 - 🤦‍♂️ projects I forgot to set to private
-- f**king take-home assignments
+- 🙈 take-home assignments
 
 
 <!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,react,next,html,css,chromedevtools,playwright,cs) -->
