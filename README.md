@@ -9,14 +9,14 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 **I'm currently learning:** how to 10x my coding speed without 100xing my debugging time 🫠 #vibecoding
 
-**Ask me about:** my serial failures in entrepreneurship (3 & counting)
-
 **My hot take:** TailWind is just inline styling 🫢
+
+**Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
 What you'll find in my repos:
 - 💻 hackathon projects
 - 🧩 LeetCode submissions
-- 🎮 videogames from my undergrad
+- 🎮 [videogames from my undergrad](https://github.com/GomezDerek/Games)
 - 🤦‍♂️ projects I forgot to set to private
 - f**king take-home assignments
 
