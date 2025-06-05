@@ -9,7 +9,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 **I'm currently learning:** how to 10x my coding speed without 100xing my debugging time 🫠 #vibecoding
 
-**My hot take:** TailWind is just inline styling 🫢
+**My hot take:** Google Sheets is a valid database 🤪
 
 **Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
