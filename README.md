@@ -14,8 +14,8 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 **Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
 What you'll find in my repos:
-- 💻 hackathon projects
-- 🧩 LeetCode submissions
+- 💻 [hackathon projects](https://github.com/GomezDerek/Hackathon-Projects)
+- 🧩 [LeetCode solutions](https://github.com/GomezDerek/LeetCode-Solutions)
 - 🎮 [videogames from my undergrad](https://github.com/GomezDerek/Games)
 - 🤦‍♂️ projects I forgot to set to private
 - 🙈 take-home assignments
