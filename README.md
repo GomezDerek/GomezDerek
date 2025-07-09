@@ -3,13 +3,13 @@
 Welcome to my nerdy little corner of the internet! 🤓 You must be: 
 1. also a nerd,
 2. a recruiter, or
-3. graciously providing feedback on my profile, thank you
+3. lost? Why are you here?
 
 <!-- **I'm passionate about:** 🤖automation, ⚡productivity, 🧠 learning efficiency, 🌏foreign languages, and 🎓education as a vehicle for social justice -->
 
-**I'm currently learning:** how to 10x my coding speed without 100xing my debugging time 🫠 #vibecoding
+**I'm currently learning:** what are the technical limitations of AI agents using MCP?
 
-**My hot take:** Google Sheets is a valid database 🤪
+** My hot take:** Google Sheets is a valid database 🤪
 
 **Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
