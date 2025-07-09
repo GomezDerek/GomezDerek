@@ -9,7 +9,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 **I'm currently learning:** what are the technical limitations of AI agents using MCP?
 
-** My hot take:** Google Sheets is a valid database 🤪
+**My hot take:** Google Sheets is a valid database 🤪
 
 **Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
