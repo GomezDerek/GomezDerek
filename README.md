@@ -7,7 +7,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 <!-- **I'm passionate about:** 🤖automation, ⚡productivity, 🧠 learning efficiency, 🌏foreign languages, and 🎓education as a vehicle for social justice -->
 
-**I'm currently learning:** what are the technical limitations of AI agents using MCP?
+**I'm currently learning:** how to transition to Linux! I was Linux-pilled when using WSL for Claude Code before Windows support.
 
 **My hot take:** Google Sheets is a valid database 🤪
 
@@ -18,7 +18,6 @@ What you'll find in my repos:
 - 🧩 [LeetCode solutions](https://github.com/GomezDerek/LeetCode-Solutions)
 - 🎮 [videogames from my undergrad](https://github.com/GomezDerek/Games)
 - 🤦‍♂️ projects I forgot to set to private
-- 🙈 take-home assignments
 
 
 <!-- ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,ts,js,react,next,html,css,chromedevtools,playwright,cs) -->
