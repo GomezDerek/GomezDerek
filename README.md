@@ -5,13 +5,9 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 2. a recruiter, or
 3. lost? Why are you here?
 
-<!-- **I'm passionate about:** 🤖automation, ⚡productivity, 🧠 learning efficiency, 🌏foreign languages, and 🎓education as a vehicle for social justice -->
-
 **I'm currently learning:** how to transition to Linux! I was Linux-pilled when using WSL for Claude Code before Windows support.
 
 **My hot take:** Google Sheets is a valid database 🤪
-
-**Ask me about:** my serial failures in entrepreneurship (3 & counting)
 
 What you'll find in my repos:
 - 💻 [hackathon projects](https://github.com/GomezDerek/Hackathon-Projects)
