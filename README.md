@@ -5,9 +5,9 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 2. a recruiter, or
 3. lost? Why are you here?
 
-**I'm currently learning:** how to transition to Linux! I was Linux-pilled when using WSL for Claude Code before Windows support.
+**I'm currently learning:** how to transition to Linux! I'm having a blast getting my feet wet with WSL.
 
-**My hot take:** Google Sheets is a valid database 🤪
+**My hot take:** hmmmm...
 
 What you'll find in my repos:
 - 💻 [hackathon projects](https://github.com/GomezDerek/Hackathon-Projects)
