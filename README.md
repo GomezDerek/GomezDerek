@@ -5,7 +5,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 2. a recruiter, or
 3. lost? Why are you here?
 
-**I'm currently learning:** how to transition to Linux! I'm having a blast getting my feet wet with WSL.
+**I'm currently learning:** building APIs with TypeScript & Bun 🥟
 
 **My hot take:** hmmmm...
 
