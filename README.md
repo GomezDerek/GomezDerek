@@ -7,7 +7,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 
 **I'm currently learning:** building APIs with TypeScript & Bun 🥟
 
-**My hot take:** hmmmm...
+**My hot take:** lightmode > darkmode
 
 What you'll find in my repos:
 - 💻 [hackathon projects](https://github.com/GomezDerek/Hackathon-Projects)
