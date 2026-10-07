@@ -5,7 +5,7 @@ Welcome to my nerdy little corner of the internet! 🤓 You must be:
 2. a recruiter, or
 3. lost? Why are you here?
 
-**I'm currently learning:** building Rich CLIs in Python! 🐍🎨
+**I'm currently learning:** Django
 
 **My hot take:** lightmode > darkmode
 
