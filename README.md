@@ -28,3 +28,6 @@ What you'll find in my repos:
     <img src="https://streak-stats.demolab.com?user=GomezDerek&theme=rising-sun&mode=weekly&hide_total_contributions=true&hide_longest_streak=true&card_width=140&card_height=347.5">
     <img src="https://streak-stats.demolab.com?user=GomezDerek&theme=rising-sun&mode=daily&hide_total_contributions=true&card_height=347.5&card_width=280">
 </div>
+
+<!-- Koi fish -->
+<img src="koi/koi.gif" width="256" alt="My koi" />
